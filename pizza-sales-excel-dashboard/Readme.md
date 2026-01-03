@@ -68,3 +68,25 @@ and best/worst selling pizzas.
 ---
 
 ## 📁 Project Folder Structure
+pizza-sales-excel-dashboard
+├── Dashboard/
+│ └── Pizza_Sales_Dashboard.xlsx
+├── Data/
+│ └── pizza_sales.xlsx
+├── Images/
+│ ├── dashboard_overview.png
+│ ├── daily_trend.png
+│ └── hourly_trend.png
+└── README.md
+
+
+---
+
+## ✅ Key Highlight
+This entire dashboard has been built using **Microsoft Excel only**
+without using any external BI tools.
+
+---
+
+## 👤 Created By
+**Saurabh Shivkriti**
